@@ -1,4 +1,4 @@
-# BulkUp 🏋️‍♂️
+# BulkUp
 
 BulkUp is an AI-powered fitness meal planner that generates personalized calorie targets, macro goals, and example meal structures based on your input.
 
@@ -62,7 +62,7 @@ Maneesh Thota
 
 Below are screenshots of the chatbot's user interface and sample interactions:
 
-![Landing Page](images/Landing-Page.png)
+![Landing Page](images/Landing%20Page.png)
 ![Sample Query 1](images/SampleAnswer.png)
 
 ---
