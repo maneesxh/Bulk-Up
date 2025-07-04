@@ -1,19 +1,29 @@
-# BulkUp
+# BulkUp – AI-Powered Fitness Assistant
 
-BulkUp is an AI-powered fitness meal planner that generates personalized calorie targets, macro goals, and example meal structures based on your input.
+**BulkUp** is a modern AI-powered fitness assistant that helps you generate a fully personalized meal and calorie plan based on your goals, body type, and activity level — now in a chatbot interface.
+
+---
 
 ## Features
 
-* Personalized calorie & macro targets
-* Example meal structures with calories, protein, carbs, and fats
-* Built with React (frontend) + Flask (backend)
-* Download or copy your plan easily
+- **Conversational Chatbot UI** – Seamless step-by-step interaction like a fitness coach
+- **Personalized Calorie & Macro Targets** – Based on your age, gender, height, weight, goal, and activity level
+- **Example Meal Plan** – Includes meals with calorie breakdowns (protein, carbs, fats)
+- **BMI Calculator + Visual Scale** – Know your BMI & category instantly with visual feedback
+- **Weight Projection Graph** – Visual forecast for weight gain or loss over weeks
+- **Download or Copy Plan** – Export your personalized plan easily
+- **Responsive UI** – Built with mobile-first design and subtle animations
 
-## Technologies Used
+---
 
-* React + Tailwind CSS
-* Flask + Together AI API
-* GitHub for version control
+## Tech Stack
+
+- **Frontend**: React + Tailwind CSS
+- **Backend**: Flask (Python)
+- **AI**: Together AI API (for personalized plan generation)
+- **Charts**: Chart.js for weight projection
+- **Icons**: React Icons
+- **Version Control**: Git + GitHub
 
 ## Running Locally
 
